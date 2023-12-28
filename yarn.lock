@@ -1454,13 +1454,13 @@
   dependencies:
     "@types/node" "*"
 
-"@types/enzyme@3.10.9":
-  version "3.10.9"
-  resolved "https://registry.npmjs.org/@types/enzyme/-/enzyme-3.10.9.tgz"
-  integrity sha512-dx5UvcWe2Vtye6S9Hw2rFB7Ul9uMXOAje2FAbXvVYieQDNle9qPAo7DfvFMSztZ9NFiD3dVZ4JsRYGTrSLynJg==
+"@types/enzyme@3.10.18":
+  version "3.10.18"
+  resolved "https://registry.yarnpkg.com/@types/enzyme/-/enzyme-3.10.18.tgz#86010e7cb56cf1450dd391b8cc3a788f6a6fadef"
+  integrity sha512-RaO/TyyHZvXkpzinbMTZmd/S5biU4zxkvDsn22ujC29t9FMSzq8tnn8f2MxQ2P8GVhFRG5jTAL05DXKyTtpEQQ==
   dependencies:
     "@types/cheerio" "*"
-    "@types/react" "*"
+    "@types/react" "^16"
 
 "@types/graceful-fs@^4.1.2":
   version "4.1.5"
@@ -1574,6 +1574,15 @@
   version "17.0.18"
   resolved "https://registry.npmjs.org/@types/react/-/react-17.0.18.tgz"
   integrity sha512-YTLgu7oS5zvSqq49X5Iue5oAbVGhgPc5Au29SJC4VeE17V6gASoOxVkUDy9pXFMRFxCWCD9fLeweNFizo3UzOg==
+  dependencies:
+    "@types/prop-types" "*"
+    "@types/scheduler" "*"
+    csstype "^3.0.2"
+
+"@types/react@^16":
+  version "16.14.54"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-16.14.54.tgz#43bba37fca0af34f6fd52468098331f0a218aea3"
+  integrity sha512-54MOeVbxTlC8U6XBy2sLhLaHg/QGP0gPEWIpl1E5tNTJDz/SdFktT3OuvAfKxpSXATUmKXDozHvxbT3XohJgDQ==
   dependencies:
     "@types/prop-types" "*"
     "@types/scheduler" "*"
