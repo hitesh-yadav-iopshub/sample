@@ -7109,10 +7109,10 @@ react-native-screens@2.18.1:
   resolved "https://registry.npmjs.org/react-native-screens/-/react-native-screens-2.18.1.tgz"
   integrity sha512-r5WZLpmx2hHjC1RgMdPq5YpSU9tEhBpUaZ5M1SUtNIONyiLqQVxabhRCINdebIk4depJiIl7yw2Q85zJyeX6fw==
 
-react-native-shared-element@0.8.1:
-  version "0.8.1"
-  resolved "https://registry.npmjs.org/react-native-shared-element/-/react-native-shared-element-0.8.1.tgz"
-  integrity sha512-YxogkwyrbU4JHIHZMhIxcJ0POxf4tsYa2B3vYbRcLTOh+ECTxjEe4k3lF8q74XoDnVW+Qc5P6ER9oB4VtlPGeA==
+react-native-shared-element@0.8.9:
+  version "0.8.9"
+  resolved "https://registry.yarnpkg.com/react-native-shared-element/-/react-native-shared-element-0.8.9.tgz#22aa3231f905ede3821949e1bfb1f62b12ca9a19"
+  integrity sha512-vlzhv3amkJm+8gA0WSeLzcCKNtN/ypZbic3IZ4Bwwr6GeWDrYzZ6k7PdHCioy7fwIVOJ1X9Pi/aYF9HK4Kb0qg==
 
 react-native-size-matters@^0.3.1:
   version "0.3.1"
